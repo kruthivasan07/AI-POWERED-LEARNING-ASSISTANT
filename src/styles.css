@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+.app { display: flex; flex-direction: column; min-height: 100vh; }
+.nav { background: #0ea5a4; padding: 12px; display:flex; gap:12px; align-items:center; }
+.nav a, .nav button { color: white; text-decoration: none; border: none; background: transparent; cursor:pointer; }
+.main { padding: 20px; }
+.card { border: 1px solid #ddd; padding: 12px; border-radius:8px; margin-bottom:12px; }
+.button { background:#06b6d4; color:white; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; }
